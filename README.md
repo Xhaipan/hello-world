@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi this is my firest test at github
+grate to see you gay!
